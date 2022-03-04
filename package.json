@@ -1,0 +1,21 @@
+{
+  "name": "spotify_to_deezer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "passport": "^0.5.2",
+    "passport-spotify": "^2.0.0",
+    "query-string": "^7.1.1",
+    "request": "^2.88.2"
+  }
+}
